@@ -1,3 +1,6 @@
+<h1 align="center">To make it run</h1>
+<p align="center">Add your Twitter access tokens in the main.py file</p>
+
 <p align="center">
   <picture>
     <img alt="Textbase python library" src="assets/logo.svg" width="352" height="59" style="max-width: 100%;">
